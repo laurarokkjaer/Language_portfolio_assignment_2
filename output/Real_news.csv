@@ -1,0 +1,897 @@
+,TextID,Sentiment Scores,GPE Mentions
+0,3608,"{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}",Paris
+1,875,"{'neg': 0.243, 'neu': 0.654, 'pos': 0.103, 'compound': -0.3612}",Britain
+2,95,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+3,4869,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+4,2909,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+5,1357,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.34}",America
+6,988,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.7717}",W. Va.
+7,1571,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Afghanistan
+8,4739,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Orlando
+9,3304,"{'neg': 0.209, 'neu': 0.791, 'pos': 0.0, 'compound': -0.2755}",South Carolina
+10,3078,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Selma
+11,2517,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.5574}",America
+12,778,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+13,3300,"{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.4939}",Belgium
+14,636,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",San Francisco
+15,755,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+16,626,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.4973}",Rubio
+17,691,"{'neg': 0.296, 'neu': 0.609, 'pos': 0.096, 'compound': -0.6808}",Kasich
+18,1787,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.4215}",Syria
+19,1967,"{'neg': 0.0, 'neu': 0.636, 'pos': 0.364, 'compound': 0.4588}",US
+20,431,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+21,5224,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.4215}",US
+22,2777,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.128}",Iran
+23,587,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}",Charleston
+24,3027,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.1027}",Connecticut
+25,4377,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.5106}",Iran
+26,3627,"{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.4767}",Ohio
+27,909,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+28,1522,"{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.6361}",Anbar
+29,1834,"{'neg': 0.265, 'neu': 0.482, 'pos': 0.253, 'compound': -0.0258}",Iran
+30,1775,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+31,3363,"{'neg': 0.327, 'neu': 0.673, 'pos': 0.0, 'compound': -0.5267}",Israel
+32,1084,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+33,4410,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+34,2669,"{'neg': 0.208, 'neu': 0.56, 'pos': 0.232, 'compound': 0.0772}",Russia
+35,3648,"{'neg': 0.141, 'neu': 0.759, 'pos': 0.1, 'compound': -0.1546}",US
+36,596,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+37,1569,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",LGBT
+38,1178,"{'neg': 0.336, 'neu': 0.664, 'pos': 0.0, 'compound': -0.7964}",New Responses
+39,1506,"{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}",Mexico
+40,1641,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+41,139,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Chicago
+42,4134,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5106}",France
+43,917,"{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.1779}",South Africa
+44,3854,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+45,3343,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",Iowa
+46,4348,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+47,3424,"{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.5574}",Iran
+48,1718,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+49,143,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.6369}",Haiti
+50,930,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+51,1661,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.128}",Vermont
+52,1360,"{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.4585}",Ferguson
+53,3635,"{'neg': 0.521, 'neu': 0.479, 'pos': 0.0, 'compound': -0.8271}",Paris
+54,3255,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",Charleston
+55,3177,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Florida
+56,2832,"{'neg': 0.273, 'neu': 0.435, 'pos': 0.292, 'compound': 0.0772}",Drudge
+57,4294,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Koch
+58,1524,"{'neg': 0.303, 'neu': 0.618, 'pos': 0.079, 'compound': -0.6124}",Syria
+59,2974,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+60,3364,"{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.1027}",Iowa
+61,4933,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cleveland
+62,4880,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",West Virginia
+63,3512,"{'neg': 0.429, 'neu': 0.571, 'pos': 0.0, 'compound': -0.6705}",Nebraska
+64,2546,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.2584}",US
+65,2596,"{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.1695}",Paris
+66,1475,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+67,2232,"{'neg': 0.427, 'neu': 0.573, 'pos': 0.0, 'compound': -0.7717}",Illinois
+68,127,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+69,4979,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.3818}",Kentucky
+70,1700,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Florida
+71,4500,"{'neg': 0.51, 'neu': 0.49, 'pos': 0.0, 'compound': -0.8074}",Paris
+72,2199,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Rubio
+73,4943,"{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.5859}",Putin
+74,2115,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+75,4597,"{'neg': 0.0, 'neu': 0.673, 'pos': 0.327, 'compound': 0.5267}",America
+76,677,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+77,3004,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+78,172,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Israel
+79,5202,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.2732}",Raid
+80,2802,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}",Afghanistan
+81,1329,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}",DC
+82,4114,"{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.5267}",Hungary
+83,4354,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+84,3138,"{'neg': 0.171, 'neu': 0.44, 'pos': 0.389, 'compound': 0.6096}",Flint
+85,421,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+86,2850,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.2023}",United States
+87,51,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Texas
+88,186,"{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2263}",Yemen
+89,3700,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.296}",Chicago
+90,5040,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+91,2305,"{'neg': 0.187, 'neu': 0.813, 'pos': 0.0, 'compound': -0.3182}",U.S.
+92,2228,"{'neg': 0.339, 'neu': 0.661, 'pos': 0.0, 'compound': -0.4767}",California
+93,3008,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cuba
+94,3872,"{'neg': 0.0, 'neu': 0.736, 'pos': 0.264, 'compound': 0.2846}",Afghanistan
+95,1884,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+96,4239,"{'neg': 0.0, 'neu': 0.746, 'pos': 0.254, 'compound': 0.5267}",Israel
+97,3282,"{'neg': 0.315, 'neu': 0.685, 'pos': 0.0, 'compound': -0.3182}",Us
+98,4532,"{'neg': 0.456, 'neu': 0.544, 'pos': 0.0, 'compound': -0.7061}",New York
+99,4130,"{'neg': 0.408, 'neu': 0.376, 'pos': 0.216, 'compound': -0.6776}",US
+100,599,"{'neg': 0.289, 'neu': 0.711, 'pos': 0.0, 'compound': -0.4714}",Yemen
+101,4577,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.7906}",Washington
+102,1934,"{'neg': 0.224, 'neu': 0.776, 'pos': 0.0, 'compound': -0.3818}",Baltimore
+103,5075,"{'neg': 0.18, 'neu': 0.602, 'pos': 0.218, 'compound': 0.128}",Oklahoma
+104,2076,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",D.C.
+105,4714,"{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.5859}",Israel
+106,4911,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+107,2834,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+108,2281,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Israel
+109,1938,"{'neg': 0.0, 'neu': 0.57, 'pos': 0.43, 'compound': 0.7783}",Brussels
+110,1255,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Baltimore
+111,4618,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Greece
+112,3602,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.5423}",Iran
+113,384,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+114,4492,"{'neg': 0.158, 'neu': 0.714, 'pos': 0.128, 'compound': -0.1531}",Ethiopia
+115,2432,"{'neg': 0.137, 'neu': 0.863, 'pos': 0.0, 'compound': -0.2263}",Kentucky
+116,2916,"{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.128}",Jamaica
+117,4713,"{'neg': 0.494, 'neu': 0.506, 'pos': 0.0, 'compound': -0.5994}",Cuba
+118,4217,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+119,1770,"{'neg': 0.0, 'neu': 0.672, 'pos': 0.328, 'compound': 0.5994}",US
+120,3427,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.5574}",Iran
+121,658,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.5859}",San Bernardino
+122,4865,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+123,4031,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",Israel
+124,2586,"{'neg': 0.0, 'neu': 0.803, 'pos': 0.197, 'compound': 0.4019}",Vlad
+125,4045,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.2023}",Cuba
+126,4632,"{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.4215}",Iraq
+127,71,"{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.5719}",Paris
+128,1108,"{'neg': 0.541, 'neu': 0.459, 'pos': 0.0, 'compound': -0.7096}",US
+129,4701,"{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.0258}",Baltimore
+130,4929,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+131,667,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+132,3382,"{'neg': 0.224, 'neu': 0.776, 'pos': 0.0, 'compound': -0.3818}",Iowa
+133,5199,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kenya
+134,1809,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+135,2812,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Palin
+136,4666,"{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.4019}",Indiana
+137,4808,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+138,4411,"{'neg': 0.171, 'neu': 0.829, 'pos': 0.0, 'compound': -0.5106}",Syria
+139,1754,"{'neg': 0.0, 'neu': 0.316, 'pos': 0.684, 'compound': 0.7579}",Turkey
+140,854,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+141,3137,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2732}",Kenya
+142,2010,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+143,1109,"{'neg': 0.649, 'neu': 0.351, 'pos': 0.0, 'compound': -0.8126}",Hiroshima
+144,3592,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.5574}",U.S.
+145,3147,"{'neg': 0.0, 'neu': 0.702, 'pos': 0.298, 'compound': 0.5267}",Iran
+146,4318,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.4215}",New York
+147,1905,"{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.5859}",Iran
+148,4051,"{'neg': 0.136, 'neu': 0.545, 'pos': 0.318, 'compound': 0.4588}",Selma
+149,3852,"{'neg': 0.487, 'neu': 0.513, 'pos': 0.0, 'compound': -0.6908}",Eleven States
+150,205,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+151,3326,"{'neg': 0.53, 'neu': 0.47, 'pos': 0.0, 'compound': -0.7845}",US
+152,2968,"{'neg': 0.535, 'neu': 0.465, 'pos': 0.0, 'compound': -0.3182}",Canada
+153,3107,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.3818}",Iran
+154,1284,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.3818}",Iran
+155,2989,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.25}",Ohio
+156,3866,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5106}",Cuba
+157,4796,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+158,961,"{'neg': 0.263, 'neu': 0.57, 'pos': 0.167, 'compound': -0.4939}",Iran
+159,273,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.5106}",U.S.
+160,3398,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.5574}",Iraq
+161,263,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Hungary
+162,1242,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+163,2840,"{'neg': 0.089, 'neu': 0.674, 'pos': 0.236, 'compound': 0.5586}",South Carolina
+164,1570,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+165,2463,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+166,4469,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.4019}",America
+167,2507,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+168,1610,"{'neg': 0.223, 'neu': 0.777, 'pos': 0.0, 'compound': -0.3182}",N.H.
+169,4107,"{'neg': 0.359, 'neu': 0.641, 'pos': 0.0, 'compound': -0.6808}",Russia
+170,3474,"{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6271}",Iowa
+171,1181,"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.2023}",Chicago
+172,624,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+173,2042,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}",U.S.
+174,1680,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.2023}",Alabama
+175,2874,"{'neg': 0.0, 'neu': 0.503, 'pos': 0.497, 'compound': 0.836}",Charleston
+176,5244,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}",Syria
+177,3888,"{'neg': 0.248, 'neu': 0.752, 'pos': 0.0, 'compound': -0.5106}",California
+178,763,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.6597}",US
+179,739,"{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.0772}",Iowa
+180,1338,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}",New Hampshire
+181,5258,"{'neg': 0.156, 'neu': 0.649, 'pos': 0.195, 'compound': 0.1531}",Cuba
+182,4053,"{'neg': 0.194, 'neu': 0.576, 'pos': 0.23, 'compound': 0.128}",Wisconsin
+183,2678,"{'neg': 0.273, 'neu': 0.625, 'pos': 0.102, 'compound': -0.4588}",California
+184,3495,"{'neg': 0.385, 'neu': 0.615, 'pos': 0.0, 'compound': -0.3612}",Kentucky
+185,4930,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+186,4904,"{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.875}",Rubio
+187,3146,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cuba
+188,4489,"{'neg': 0.367, 'neu': 0.633, 'pos': 0.0, 'compound': -0.4404}",Boston
+189,4454,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Saudi Arabia's
+190,4708,"{'neg': 0.21, 'neu': 0.617, 'pos': 0.173, 'compound': -0.1531}",US
+191,1461,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Philadelphia
+192,440,"{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.2732}",San Bernardino
+193,3851,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Moscow
+194,334,"{'neg': 0.402, 'neu': 0.467, 'pos': 0.131, 'compound': -0.5994}",Wisconsin
+195,3767,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2023}",South Carolina
+196,5215,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+197,5207,"{'neg': 0.154, 'neu': 0.671, 'pos': 0.174, 'compound': 0.0772}",US
+198,5035,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",North Korea
+199,3103,"{'neg': 0.138, 'neu': 0.582, 'pos': 0.28, 'compound': 0.4019}",Michigan
+200,1376,"{'neg': 0.55, 'neu': 0.45, 'pos': 0.0, 'compound': -0.7269}",Mississippi
+201,1510,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Rubio
+202,356,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+203,2683,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Clinton
+204,4020,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.2263}",Rubio
+205,3226,"{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}",Iran
+206,3375,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.2023}",Iran
+207,3106,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Mali
+208,2339,"{'neg': 0.267, 'neu': 0.556, 'pos': 0.178, 'compound': -0.2023}",America
+209,2422,"{'neg': 0.0, 'neu': 0.9, 'pos': 0.1, 'compound': 0.0572}",Detroit
+210,1597,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Arizona
+211,4261,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}",America
+212,2640,"{'neg': 0.0, 'neu': 0.471, 'pos': 0.529, 'compound': 0.5423}",Camden
+213,4477,"{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.6486}",Baltimore
+214,5184,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+215,4648,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}",Florida
+216,3144,"{'neg': 0.171, 'neu': 0.488, 'pos': 0.341, 'compound': 0.34}",Philadelphia
+217,1784,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",America
+218,800,"{'neg': 0.0, 'neu': 0.617, 'pos': 0.383, 'compound': 0.7351}",London
+219,1518,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+220,3938,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+221,3638,"{'neg': 0.527, 'neu': 0.473, 'pos': 0.0, 'compound': -0.836}",Syria
+222,1829,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3774}",U.S.
+223,2845,"{'neg': 0.328, 'neu': 0.672, 'pos': 0.0, 'compound': -0.5994}",Wisconsin
+224,317,"{'neg': 0.208, 'neu': 0.628, 'pos': 0.164, 'compound': -0.2263}",Israel
+225,3302,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.4168}",Oregon
+226,162,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",St. Louis
+227,151,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.128}",U.S.
+228,2714,"{'neg': 0.426, 'neu': 0.574, 'pos': 0.0, 'compound': -0.6369}",Afghanistan
+229,3327,"{'neg': 0.118, 'neu': 0.709, 'pos': 0.173, 'compound': 0.1779}",Syria
+230,4147,"{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.4588}",US
+231,751,"{'neg': 0.0, 'neu': 0.647, 'pos': 0.353, 'compound': 0.7184}",U.S.
+232,3993,"{'neg': 0.0, 'neu': 0.614, 'pos': 0.386, 'compound': 0.4847}",Paris
+233,3664,"{'neg': 0.418, 'neu': 0.582, 'pos': 0.0, 'compound': -0.836}",N.H.
+234,4455,"{'neg': 0.0, 'neu': 0.739, 'pos': 0.261, 'compound': 0.3566}",U.S.
+235,235,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.3612}",Saudi Arabia
+236,4359,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+237,2462,"{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.5423}",Syria
+238,4289,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Wisconsin
+239,743,"{'neg': 0.241, 'neu': 0.668, 'pos': 0.091, 'compound': -0.3535}",Syria
+240,5061,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+241,1146,"{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.4404}",Iraq
+242,1027,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",U.S.
+243,5237,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+244,4122,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Virginia
+245,266,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2023}",Egypt
+246,2551,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Israel
+247,5060,"{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.7783}",US
+248,5183,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.4019}",Soviet Union’s
+249,2822,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Charleston
+250,4305,"{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.5719}",Ireland
+251,1786,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5106}",America
+252,2057,"{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.0772}",San Diego
+253,4601,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Turkey
+254,1996,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Wyoming
+255,4267,"{'neg': 0.227, 'neu': 0.584, 'pos': 0.188, 'compound': -0.1531}",Indiana
+256,3077,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+257,2376,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cleveland
+258,2570,"{'neg': 0.34, 'neu': 0.66, 'pos': 0.0, 'compound': -0.5574}",Selma
+259,4375,"{'neg': 0.44, 'neu': 0.56, 'pos': 0.0, 'compound': -0.6705}",America
+260,781,"{'neg': 0.115, 'neu': 0.67, 'pos': 0.215, 'compound': 0.2732}",Russia
+261,2619,"{'neg': 0.327, 'neu': 0.673, 'pos': 0.0, 'compound': -0.5267}",Syria
+262,693,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Colorado
+263,4621,"{'neg': 0.208, 'neu': 0.538, 'pos': 0.254, 'compound': 0.1531}",Iran
+264,1118,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Texas
+265,5223,"{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.5106}",US
+266,217,"{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.5499}",California
+267,2634,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.1779}",America
+268,3134,"{'neg': 0.148, 'neu': 0.852, 'pos': 0.0, 'compound': -0.3818}",Iran
+269,1590,"{'neg': 0.196, 'neu': 0.374, 'pos': 0.43, 'compound': 0.3612}",Russia
+270,704,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",Rubio
+271,3982,"{'neg': 0.451, 'neu': 0.549, 'pos': 0.0, 'compound': -0.8126}",Iowa
+272,3140,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}",Charleston
+273,1423,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4588}",Syria
+274,3828,"{'neg': 0.381, 'neu': 0.361, 'pos': 0.258, 'compound': -0.5267}",Turkey
+275,1722,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+276,1479,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Lahore
+277,992,"{'neg': 0.236, 'neu': 0.764, 'pos': 0.0, 'compound': -0.4168}",Pakistan
+278,1343,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+279,187,"{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}",US
+280,5209,"{'neg': 0.227, 'neu': 0.773, 'pos': 0.0, 'compound': -0.6249}",California
+281,4883,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}",Iran
+282,4750,"{'neg': 0.092, 'neu': 0.75, 'pos': 0.158, 'compound': 0.2023}",Iran
+283,5020,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+284,1171,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Germany
+285,764,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",Ryan
+286,1819,"{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.6369}",California
+287,569,"{'neg': 0.609, 'neu': 0.391, 'pos': 0.0, 'compound': -0.7783}",U.S.
+288,4770,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.4939}",Iran
+289,1920,"{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}",Washington
+290,4431,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",VA
+291,1675,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+292,5057,"{'neg': 0.0, 'neu': 0.788, 'pos': 0.212, 'compound': 0.2846}",Bergdahl
+293,188,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+294,5028,"{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}",Iraq
+295,3,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ukraine
+296,4561,"{'neg': 0.29, 'neu': 0.71, 'pos': 0.0, 'compound': -0.6924}",Kentucky
+297,4145,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Milwaukee
+298,479,"{'neg': 0.353, 'neu': 0.647, 'pos': 0.0, 'compound': -0.5994}",Flint
+299,2532,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+300,4246,"{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.6249}",New York
+301,708,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.3412}",Iraq
+302,4563,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+303,944,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}",Calif.
+304,821,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+305,5114,"{'neg': 0.475, 'neu': 0.36, 'pos': 0.165, 'compound': -0.6486}",the United States
+306,4630,"{'neg': 0.181, 'neu': 0.819, 'pos': 0.0, 'compound': -0.2484}",America
+307,3887,"{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.5719}",St. Louis
+308,500,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+309,2497,"{'neg': 0.0, 'neu': 0.797, 'pos': 0.203, 'compound': 0.4215}",US
+310,2837,"{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.5106}",America
+311,3870,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Egypt
+312,868,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Libya
+313,1115,"{'neg': 0.462, 'neu': 0.538, 'pos': 0.0, 'compound': -0.5106}",America
+314,449,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2732}",Iran
+315,2768,"{'neg': 0.23, 'neu': 0.77, 'pos': 0.0, 'compound': -0.4005}",New Hampshire
+316,3855,"{'neg': 0.0, 'neu': 0.617, 'pos': 0.383, 'compound': 0.4767}",Israel
+317,1318,"{'neg': 0.312, 'neu': 0.688, 'pos': 0.0, 'compound': -0.6124}",Kentucky
+318,972,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ohio
+319,109,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+320,2691,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Mexico
+321,4397,"{'neg': 0.185, 'neu': 0.298, 'pos': 0.518, 'compound': 0.6808}",Ukraine
+322,2052,"{'neg': 0.0, 'neu': 0.696, 'pos': 0.304, 'compound': 0.2924}",Rubio
+323,605,"{'neg': 0.23, 'neu': 0.531, 'pos': 0.239, 'compound': 0.0258}",Cruz
+324,819,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",Iowa
+325,1883,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.5994}",Arizona
+326,3682,"{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.6486}",U.S.
+327,5190,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.3818}",Afghanistan
+328,2139,"{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.4019}",Iran
+329,2646,"{'neg': 0.532, 'neu': 0.355, 'pos': 0.113, 'compound': -0.7845}",Iowa
+330,1604,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.25}",Brussels
+331,1424,"{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}",France
+332,4484,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Florida
+333,1297,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.1027}",Illinois
+334,2732,"{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.5768}",Ohio
+335,4088,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",North Carolina
+336,578,"{'neg': 0.429, 'neu': 0.571, 'pos': 0.0, 'compound': -0.6705}",Florida
+337,1723,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",US
+338,3256,"{'neg': 0.336, 'neu': 0.545, 'pos': 0.119, 'compound': -0.6573}",N.H.
+339,2786,"{'neg': 0.459, 'neu': 0.541, 'pos': 0.0, 'compound': -0.7783}",Orlando
+340,4514,"{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.5994}",New York Wins
+341,1612,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",South Carolina
+342,1951,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+343,5105,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+344,2987,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Egypt
+345,1653,"{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.3612}",Libya
+346,462,"{'neg': 0.077, 'neu': 0.773, 'pos': 0.149, 'compound': 0.3182}",Puerto Rico's
+347,2102,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+348,1530,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+349,2588,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Orlando
+350,4797,"{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.5859}",U.S.
+351,5134,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Obama
+352,1535,"{'neg': 0.372, 'neu': 0.628, 'pos': 0.0, 'compound': -0.7964}",Iran
+353,5128,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kochs
+354,4126,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+355,1222,"{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.6369}",Mohammed Event
+356,2005,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+357,3081,"{'neg': 0.278, 'neu': 0.588, 'pos': 0.134, 'compound': -0.4015}",Wisconsin
+358,324,"{'neg': 0.384, 'neu': 0.616, 'pos': 0.0, 'compound': -0.6808}",France
+359,17,"{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}",Belgium
+360,1005,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Italy
+361,4050,"{'neg': 0.259, 'neu': 0.576, 'pos': 0.165, 'compound': -0.0772}",New York
+362,419,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.4019}",Ark.
+363,3897,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New York
+364,3761,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+365,4197,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+366,193,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.765}",New York City
+367,1014,"{'neg': 0.639, 'neu': 0.361, 'pos': 0.0, 'compound': -0.891}",US
+368,126,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6124}",Boston
+369,1857,"{'neg': 0.384, 'neu': 0.452, 'pos': 0.164, 'compound': -0.5994}",Iran
+370,1059,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ohio
+371,3456,"{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.8176}",Washington
+372,2211,"{'neg': 0.3, 'neu': 0.467, 'pos': 0.233, 'compound': -0.4588}",Alabama
+373,5177,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+374,5185,"{'neg': 0.302, 'neu': 0.698, 'pos': 0.0, 'compound': -0.3818}",Belgium
+375,5082,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",France
+376,2086,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Germany
+377,4844,"{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.1901}",Hiroshima
+378,4494,"{'neg': 0.161, 'neu': 0.632, 'pos': 0.207, 'compound': 0.2023}",Baltimore
+379,2222,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Puerto Rico
+380,3566,"{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}",Florida
+381,2624,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.4588}",America
+382,1066,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4939}",Iowa
+383,825,"{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.5719}",New Hampshire
+384,2706,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Yemen
+385,2574,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+386,4996,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Alaska
+387,3764,"{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.5106}",Carly Fiorina
+388,3168,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4019}",America
+389,3494,"{'neg': 0.0, 'neu': 0.443, 'pos': 0.557, 'compound': 0.7424}",US
+390,131,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Florida
+391,3073,"{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.3612}",Indiana
+392,4047,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Istanbul
+393,5083,"{'neg': 0.0, 'neu': 0.776, 'pos': 0.224, 'compound': 0.3818}",US
+394,4027,"{'neg': 0.557, 'neu': 0.443, 'pos': 0.0, 'compound': -0.6476}",Iran
+395,4587,"{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}",S.C.
+396,497,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ferguson PD
+397,1532,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cleveland
+398,4696,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}",New Hampshire
+399,3821,"{'neg': 0.208, 'neu': 0.792, 'pos': 0.0, 'compound': -0.2732}",Venezuela
+400,2519,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.5574}",Iowa
+401,806,"{'neg': 0.147, 'neu': 0.853, 'pos': 0.0, 'compound': -0.2263}",Istanbul
+402,5236,"{'neg': 0.313, 'neu': 0.687, 'pos': 0.0, 'compound': -0.6249}",Iowa
+403,1994,"{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.3818}",Kasich
+404,4070,"{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.7096}",Hawaii
+405,612,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Mississippi
+406,5089,"{'neg': 0.509, 'neu': 0.491, 'pos': 0.0, 'compound': -0.4847}",Michigan
+407,1162,"{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.5859}",Iran
+408,4052,"{'neg': 0.295, 'neu': 0.705, 'pos': 0.0, 'compound': -0.6808}",Cleveland
+409,2004,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Charleston
+410,911,"{'neg': 0.114, 'neu': 0.619, 'pos': 0.267, 'compound': 0.4939}",South Carolina Black
+411,5146,"{'neg': 0.211, 'neu': 0.621, 'pos': 0.168, 'compound': -0.1779}",Nevada
+412,10,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5994}",Ethiopia
+413,2893,"{'neg': 0.471, 'neu': 0.529, 'pos': 0.0, 'compound': -0.8402}",South Carolina
+414,4434,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.128}",Ukraine
+415,814,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cuba
+416,2036,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Washington
+417,90,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Las Vegas
+418,3559,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Washington
+419,1241,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+420,4806,"{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.2023}",Iran
+421,4398,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+422,756,"{'neg': 0.218, 'neu': 0.67, 'pos': 0.112, 'compound': -0.4404}",Iran
+423,3386,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+424,4178,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+425,1845,"{'neg': 0.389, 'neu': 0.611, 'pos': 0.0, 'compound': -0.7479}",Syria
+426,3032,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Brussels
+427,2905,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+428,2593,"{'neg': 0.315, 'neu': 0.462, 'pos': 0.223, 'compound': -0.0516}",Iowa
+429,3837,"{'neg': 0.291, 'neu': 0.709, 'pos': 0.0, 'compound': -0.5719}",Utah
+430,3666,"{'neg': 0.316, 'neu': 0.684, 'pos': 0.0, 'compound': -0.5719}",New Hampshire
+431,2219,"{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.2023}",San Jose
+432,3848,"{'neg': 0.361, 'neu': 0.639, 'pos': 0.0, 'compound': -0.5256}",Mexico
+433,5268,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Washington
+434,4328,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Baltimore
+435,5142,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}",New York
+436,837,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+437,2087,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+438,2181,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+439,3247,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.34}",Kentucky
+440,2844,"{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}",Iowa
+441,3622,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.6705}",New Hampshire
+442,3551,"{'neg': 0.0, 'neu': 0.891, 'pos': 0.109, 'compound': 0.0258}",Egypt
+443,3736,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+444,4306,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Vienna
+445,3974,"{'neg': 0.44, 'neu': 0.56, 'pos': 0.0, 'compound': -0.6705}",Iran
+446,3202,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+447,3466,"{'neg': 0.0, 'neu': 0.66, 'pos': 0.34, 'compound': 0.5574}",Kentucky
+448,1364,"{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}",NC
+449,1019,"{'neg': 0.153, 'neu': 0.847, 'pos': 0.0, 'compound': -0.5023}",N.J.
+450,2089,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",South Carolina
+451,2189,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+452,2258,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.34}",Brussels
+453,524,"{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.6808}",Iran
+454,5147,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+455,1783,"{'neg': 0.205, 'neu': 0.795, 'pos': 0.0, 'compound': -0.6269}",Utah
+456,171,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}",Kobani
+457,736,"{'neg': 0.0, 'neu': 0.595, 'pos': 0.405, 'compound': 0.5267}",Paris
+458,4283,"{'neg': 0.16, 'neu': 0.494, 'pos': 0.346, 'compound': 0.4588}",San Bernardino
+459,3691,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Washington
+460,2627,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}",Iran
+461,2237,"{'neg': 0.189, 'neu': 0.63, 'pos': 0.181, 'compound': -0.0258}",South Carolina
+462,1064,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Britain
+463,849,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+464,1802,"{'neg': 0.36, 'neu': 0.508, 'pos': 0.132, 'compound': -0.6705}",Wyoming
+465,1875,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+466,62,"{'neg': 0.254, 'neu': 0.746, 'pos': 0.0, 'compound': -0.1779}",Saudi Arabia’s
+467,3957,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",the United States
+468,4268,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+469,3215,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+470,1753,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kansas
+471,4906,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+472,1235,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",Mosul
+473,4360,"{'neg': 0.332, 'neu': 0.535, 'pos': 0.134, 'compound': -0.5719}",N.H.
+474,4076,"{'neg': 0.684, 'neu': 0.316, 'pos': 0.0, 'compound': -0.8957}",New York
+475,347,"{'neg': 0.481, 'neu': 0.519, 'pos': 0.0, 'compound': -0.7579}",US
+476,2921,"{'neg': 0.619, 'neu': 0.381, 'pos': 0.0, 'compound': -0.7579}",U.S.
+477,3002,"{'neg': 0.223, 'neu': 0.615, 'pos': 0.162, 'compound': -0.2732}",Paris
+478,3067,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}",Rubio
+479,2912,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Baltimore
+480,5088,"{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.5267}",Nevada
+481,602,"{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.4939}",Iowa
+482,3173,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Orlando
+483,4689,"{'neg': 0.134, 'neu': 0.866, 'pos': 0.0, 'compound': -0.1779}",Iran
+484,4327,"{'neg': 0.261, 'neu': 0.672, 'pos': 0.067, 'compound': -0.7351}",Texas
+485,2084,"{'neg': 0.113, 'neu': 0.887, 'pos': 0.0, 'compound': -0.3182}",Baltimore
+486,1155,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}",San Francisco’s
+487,486,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+488,2735,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.6705}",Turkey
+489,3809,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Armenia
+490,2386,"{'neg': 0.491, 'neu': 0.509, 'pos': 0.0, 'compound': -0.891}",New York City
+491,4370,"{'neg': 0.397, 'neu': 0.603, 'pos': 0.0, 'compound': -0.6808}",Iowa
+492,2018,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Charleston
+493,3641,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.6705}",America
+494,1556,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",North Dakota
+495,322,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.3818}",Iowa
+496,2797,"{'neg': 0.218, 'neu': 0.782, 'pos': 0.0, 'compound': -0.5994}",U.S.
+497,1224,"{'neg': 0.182, 'neu': 0.818, 'pos': 0.0, 'compound': -0.4404}",U.S.
+498,2775,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.5859}",US
+499,144,"{'neg': 0.174, 'neu': 0.659, 'pos': 0.168, 'compound': -0.0258}",Syria
+500,750,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+501,72,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+502,3946,"{'neg': 0.222, 'neu': 0.598, 'pos': 0.179, 'compound': 0.0905}",New York
+503,1006,"{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.5994}",Oregon
+504,3506,"{'neg': 0.514, 'neu': 0.226, 'pos': 0.26, 'compound': -0.7579}",Ky.
+505,639,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+506,4207,"{'neg': 0.191, 'neu': 0.446, 'pos': 0.363, 'compound': 0.4005}",Syria
+507,382,"{'neg': 0.191, 'neu': 0.809, 'pos': 0.0, 'compound': -0.3818}",US
+508,1471,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kabul
+509,4842,"{'neg': 0.0, 'neu': 0.739, 'pos': 0.261, 'compound': 0.5574}",Las Vegas
+510,2877,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ramadi
+511,2241,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.34}",US
+512,2186,"{'neg': 0.271, 'neu': 0.729, 'pos': 0.0, 'compound': -0.3818}",America
+513,4759,"{'neg': 0.0, 'neu': 0.583, 'pos': 0.417, 'compound': 0.6124}",US
+514,402,"{'neg': 0.459, 'neu': 0.541, 'pos': 0.0, 'compound': -0.7003}",San Bernardino
+515,2421,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.6597}",US
+516,1791,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Dangerous
+517,2863,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+518,1983,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}",Obama
+519,4429,"{'neg': 0.248, 'neu': 0.661, 'pos': 0.091, 'compound': -0.4404}",Syria
+520,1020,"{'neg': 0.216, 'neu': 0.373, 'pos': 0.41, 'compound': 0.3818}",Iran
+521,4030,"{'neg': 0.298, 'neu': 0.702, 'pos': 0.0, 'compound': -0.34}",Iran
+522,1760,"{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.3818}",Nepal
+523,3777,"{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.2732}",Washington
+524,1742,"{'neg': 0.0, 'neu': 0.283, 'pos': 0.717, 'compound': 0.765}",D.C.
+525,244,"{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.1139}",America
+526,2806,"{'neg': 0.0, 'neu': 0.639, 'pos': 0.361, 'compound': 0.6858}",Bronx
+527,1734,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+528,4629,"{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.4019}",Syria
+529,1190,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+530,5176,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ireland
+531,1039,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Connecticut
+532,4786,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+533,3859,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.25}",New York
+534,4459,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+535,3727,"{'neg': 0.0, 'neu': 0.869, 'pos': 0.131, 'compound': 0.3089}",Oregon
+536,1630,"{'neg': 0.425, 'neu': 0.411, 'pos': 0.164, 'compound': -0.5859}",America
+537,3750,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.4215}",Turkey
+538,3829,"{'neg': 0.0, 'neu': 0.491, 'pos': 0.509, 'compound': 0.6428}",Syria
+539,3127,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+540,1902,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+541,908,"{'neg': 0.353, 'neu': 0.647, 'pos': 0.0, 'compound': -0.5994}",New Hampshire
+542,68,"{'neg': 0.487, 'neu': 0.513, 'pos': 0.0, 'compound': -0.6908}",Rubio
+543,1280,"{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.3182}",Miami
+544,3303,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+545,3788,"{'neg': 0.348, 'neu': 0.57, 'pos': 0.082, 'compound': -0.6369}",Iowa
+546,1980,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.5994}",West Virginia
+547,2291,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.4939}",America
+548,2995,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+549,2162,"{'neg': 0.408, 'neu': 0.592, 'pos': 0.0, 'compound': -0.7351}",U.S.
+550,4709,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Havana
+551,1386,"{'neg': 0.0, 'neu': 0.709, 'pos': 0.291, 'compound': 0.5719}",Palestine
+552,3856,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+553,1785,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.0572}",Anbar
+554,5113,"{'neg': 0.219, 'neu': 0.781, 'pos': 0.0, 'compound': -0.4215}",US
+555,2526,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.34}",Cuba
+556,2445,"{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.5574}",California
+557,1326,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ukraine
+558,4523,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.3818}",Iowa
+559,2434,"{'neg': 0.431, 'neu': 0.569, 'pos': 0.0, 'compound': -0.6486}",N.H.
+560,1126,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+561,4718,"{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.3818}",Vietnam
+562,4804,"{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.128}",America
+563,2938,"{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}",Chicago
+564,5165,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}",Iraq
+565,4542,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Al-Abadi
+566,4373,"{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}",Russia
+567,1204,"{'neg': 0.333, 'neu': 0.455, 'pos': 0.212, 'compound': -0.1531}",Syria
+568,4676,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.3804}",Syria
+569,1247,"{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.4767}",Israel
+570,3991,"{'neg': 0.4, 'neu': 0.6, 'pos': 0.0, 'compound': -0.7184}",Kentucky
+571,4922,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}",Wisconsin
+572,2527,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.0516}",Iran
+573,4830,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+574,957,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+575,1079,"{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.7506}",Afghanistan
+576,3529,"{'neg': 0.343, 'neu': 0.657, 'pos': 0.0, 'compound': -0.6908}",NY
+577,3209,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",California
+578,3124,"{'neg': 0.353, 'neu': 0.647, 'pos': 0.0, 'compound': -0.5994}",Brussels
+579,4016,"{'neg': 0.471, 'neu': 0.529, 'pos': 0.0, 'compound': -0.836}",Hiroshima
+580,2946,"{'neg': 0.503, 'neu': 0.405, 'pos': 0.092, 'compound': -0.7269}",New Hampshire
+581,3869,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+582,2611,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+583,3904,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+584,292,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.1531}",Iran
+585,2216,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.2732}",Kathmandu
+586,4686,"{'neg': 0.14, 'neu': 0.581, 'pos': 0.279, 'compound': 0.34}",Iowa
+587,22,"{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.2732}",US
+588,668,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}",Libya
+589,2436,"{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4939}",Miami
+590,701,"{'neg': 0.0, 'neu': 0.616, 'pos': 0.384, 'compound': 0.6808}",Texas
+591,3932,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}",Iowa
+592,5195,"{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.2263}",Kasich
+593,1502,"{'neg': 0.344, 'neu': 0.584, 'pos': 0.071, 'compound': -0.6369}",Iowa
+594,987,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.7579}",New Mexico
+595,4292,"{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.6597}",Saudi Arabia
+596,2413,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Egypt
+597,2092,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Invade
+598,469,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Yemen
+599,2266,"{'neg': 0.316, 'neu': 0.684, 'pos': 0.0, 'compound': -0.5719}",Trump County
+600,4567,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.3818}",Iran
+601,4732,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Homeland
+602,1929,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.3612}",Kenya
+603,2124,"{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.2023}",America
+604,2411,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Indiana
+605,4407,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+606,4096,"{'neg': 0.105, 'neu': 0.663, 'pos': 0.232, 'compound': 0.3182}",Nevada
+607,590,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}",U.S.
+608,4174,"{'neg': 0.262, 'neu': 0.738, 'pos': 0.0, 'compound': -0.4939}",Mexico
+609,3435,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}",America
+610,1602,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+611,3112,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+612,926,"{'neg': 0.0, 'neu': 0.49, 'pos': 0.51, 'compound': 0.6369}",Ukraine
+613,1777,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+614,2009,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ferguson
+615,4803,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Libya
+616,3778,"{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.1877}",America
+617,4250,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nepal
+618,3428,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.5574}",Texas
+619,2948,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+620,1406,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",California
+621,666,"{'neg': 0.301, 'neu': 0.699, 'pos': 0.0, 'compound': -0.7845}",Arizona
+622,4740,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ramadi
+623,4818,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Denmark
+624,5085,"{'neg': 0.276, 'neu': 0.724, 'pos': 0.0, 'compound': -0.6369}",Calif.
+625,3524,"{'neg': 0.35, 'neu': 0.65, 'pos': 0.0, 'compound': -0.6486}",Ore.
+626,30,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Afghanistan
+627,973,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ukraine
+628,900,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kentucky
+629,1102,"{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.4939}",Baltimore
+630,3454,"{'neg': 0.112, 'neu': 0.733, 'pos': 0.155, 'compound': 0.2516}",Moscow
+631,4430,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Florida
+632,5212,"{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}",Iowa
+633,50,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+634,16,"{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.5719}",California
+635,4409,"{'neg': 0.0, 'neu': 0.702, 'pos': 0.298, 'compound': 0.5267}",U.S.
+636,4736,"{'neg': 0.246, 'neu': 0.647, 'pos': 0.108, 'compound': -0.4826}",Charleston
+637,4223,"{'neg': 0.0, 'neu': 0.613, 'pos': 0.387, 'compound': 0.743}",Paris
+638,3826,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+639,4247,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Massive
+640,3322,"{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}",U.S.
+641,3410,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+642,5274,"{'neg': 0.474, 'neu': 0.526, 'pos': 0.0, 'compound': -0.743}",Germany
+643,1167,"{'neg': 0.322, 'neu': 0.678, 'pos': 0.0, 'compound': -0.5859}",Charleston
+644,551,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2732}",Philadelphia
+645,2998,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Minneapolis
+646,1047,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.4588}",America
+647,998,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.5719}",Atlanta
+648,3179,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",California
+649,702,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",US
+650,2483,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+651,3317,"{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}",Iran
+652,1437,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",Florida
+653,2889,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Pennsylvania
+654,1499,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+655,2843,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.2263}",U.S.
+656,159,"{'neg': 0.295, 'neu': 0.705, 'pos': 0.0, 'compound': -0.5574}",Iran
+657,899,"{'neg': 0.184, 'neu': 0.563, 'pos': 0.253, 'compound': 0.1872}",Brussels
+658,2012,"{'neg': 0.0, 'neu': 0.829, 'pos': 0.171, 'compound': 0.4767}",US
+659,4281,"{'neg': 0.104, 'neu': 0.724, 'pos': 0.172, 'compound': 0.3612}",Syria
+660,737,"{'neg': 0.236, 'neu': 0.764, 'pos': 0.0, 'compound': -0.5719}",Cuba
+661,2680,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Giving
+662,3059,"{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.5106}",Charleston
+663,3981,"{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.6486}",U.S.
+664,4509,"{'neg': 0.316, 'neu': 0.684, 'pos': 0.0, 'compound': -0.5719}",Kentucky
+665,4451,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kabul
+666,2378,"{'neg': 0.122, 'neu': 0.524, 'pos': 0.354, 'compound': 0.5475}",California
+667,5032,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+668,3058,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cuba
+669,3380,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New York
+670,491,"{'neg': 0.147, 'neu': 0.588, 'pos': 0.265, 'compound': 0.296}",Chaos
+671,4157,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+672,2650,"{'neg': 0.388, 'neu': 0.612, 'pos': 0.0, 'compound': -0.2263}",Cuba
+673,492,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+674,2419,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+675,1705,"{'neg': 0.419, 'neu': 0.581, 'pos': 0.0, 'compound': -0.7579}",Syria
+676,1296,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4215}",New Hampshire
+677,912,"{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.0516}",U.S.
+678,74,"{'neg': 0.16, 'neu': 0.661, 'pos': 0.179, 'compound': -0.128}",Kenya
+679,269,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iraq
+680,3339,"{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.2023}",Ginsburg
+681,3342,"{'neg': 0.481, 'neu': 0.519, 'pos': 0.0, 'compound': -0.7579}",Arizona
+682,3769,"{'neg': 0.147, 'neu': 0.853, 'pos': 0.0, 'compound': -0.2263}",Tunisia
+683,156,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+684,4115,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.3865}",Louisiana
+685,4591,"{'neg': 0.336, 'neu': 0.411, 'pos': 0.253, 'compound': -0.0516}",U.S.
+686,3759,"{'neg': 0.291, 'neu': 0.709, 'pos': 0.0, 'compound': -0.5719}",Baltimore
+687,3042,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+688,4554,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+689,2392,"{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.6369}",America
+690,5081,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+691,4116,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.128}",Indiana
+692,3105,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6369}",the United States
+693,851,"{'neg': 0.175, 'neu': 0.825, 'pos': 0.0, 'compound': -0.1779}",Las Vegas
+694,118,"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.3182}",Iran
+695,3037,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+696,1546,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Spain
+697,345,"{'neg': 0.343, 'neu': 0.392, 'pos': 0.265, 'compound': -0.3818}",Takeaways
+698,1797,"{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.2263}",New York
+699,2911,"{'neg': 0.256, 'neu': 0.744, 'pos': 0.0, 'compound': -0.4767}",Israel
+700,2133,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+701,4425,"{'neg': 0.378, 'neu': 0.495, 'pos': 0.126, 'compound': -0.6227}",San Bernardino
+702,23,"{'neg': 0.403, 'neu': 0.597, 'pos': 0.0, 'compound': -0.6597}",Oregon
+703,3812,"{'neg': 0.144, 'neu': 0.616, 'pos': 0.24, 'compound': 0.34}",Kentucky
+704,5233,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+705,3284,"{'neg': 0.0, 'neu': 0.641, 'pos': 0.359, 'compound': 0.6808}",Helping
+706,3433,"{'neg': 0.252, 'neu': 0.516, 'pos': 0.232, 'compound': -0.0772}",US
+707,2492,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Orlando
+708,3766,"{'neg': 0.241, 'neu': 0.759, 'pos': 0.0, 'compound': -0.2263}",Orlando
+709,2047,"{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}",Baltimore
+710,2796,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+711,4562,"{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.4019}",Iran
+712,3793,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.3612}",Afghanistan
+713,2660,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Texas
+714,493,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+715,832,"{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.296}",Iran
+716,534,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}",Iowa
+717,2699,"{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.0258}",N.H.
+718,2616,"{'neg': 0.247, 'neu': 0.753, 'pos': 0.0, 'compound': -0.3182}",Iowa
+719,967,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",London
+720,3030,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+721,700,"{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.2263}",Iowa
+722,3463,"{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.5574}",Vietnam
+723,1627,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+724,4572,"{'neg': 0.213, 'neu': 0.787, 'pos': 0.0, 'compound': -0.2263}",Kabul
+725,184,"{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.34}",Paris
+726,4529,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Brussels
+727,3693,"{'neg': 0.173, 'neu': 0.827, 'pos': 0.0, 'compound': -0.3182}",Iran
+728,4665,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+729,4378,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire’s
+730,775,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.128}",U.S.
+731,3893,"{'neg': 0.274, 'neu': 0.726, 'pos': 0.0, 'compound': -0.5267}",Iowa
+732,3046,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+733,4188,"{'neg': 0.174, 'neu': 0.674, 'pos': 0.152, 'compound': -0.1027}",Melania
+734,718,"{'neg': 0.0, 'neu': 0.683, 'pos': 0.317, 'compound': 0.7579}",America
+735,3701,"{'neg': 0.385, 'neu': 0.615, 'pos': 0.0, 'compound': -0.6124}",Mexico
+736,3680,"{'neg': 0.592, 'neu': 0.408, 'pos': 0.0, 'compound': -0.8658}",America
+737,1070,"{'neg': 0.095, 'neu': 0.779, 'pos': 0.126, 'compound': 0.1779}",Race
+738,2935,"{'neg': 0.203, 'neu': 0.797, 'pos': 0.0, 'compound': -0.4215}",California
+739,3048,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}",Paris
+740,2697,"{'neg': 0.189, 'neu': 0.63, 'pos': 0.181, 'compound': -0.0258}",Chicago
+741,4748,"{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.5809}",Iran
+742,597,"{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.25}",Iran
+743,828,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}",U.S.
+744,2951,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",France
+745,416,"{'neg': 0.146, 'neu': 0.68, 'pos': 0.175, 'compound': 0.0772}",Syria
+746,2424,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.1531}",Iowa
+747,931,"{'neg': 0.185, 'neu': 0.588, 'pos': 0.227, 'compound': 0.0018}",Yemen
+748,3347,"{'neg': 0.158, 'neu': 0.842, 'pos': 0.0, 'compound': -0.128}",San Bernardino
+749,4779,"{'neg': 0.118, 'neu': 0.806, 'pos': 0.075, 'compound': -0.2023}",Russia
+750,3389,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+751,4691,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.2755}",Vietnam
+752,4789,"{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}",China
+753,101,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+754,5238,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",S.C.
+755,3994,"{'neg': 0.352, 'neu': 0.464, 'pos': 0.184, 'compound': -0.3662}",New York
+756,981,"{'neg': 0.288, 'neu': 0.611, 'pos': 0.1, 'compound': -0.6486}",Iran
+757,1328,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Texas
+758,3523,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",D.C.
+759,2062,"{'neg': 0.494, 'neu': 0.506, 'pos': 0.0, 'compound': -0.5994}",Nigeria
+760,3115,"{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.4404}",Seattle
+761,141,"{'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.8519}",Brussels
+762,5171,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.4215}",Orlando
+763,3575,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}",New Hampshire
+764,3189,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}",Vegas
+765,2949,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Long Hours
+766,2260,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.5574}",Russia
+767,1636,"{'neg': 0.0, 'neu': 0.519, 'pos': 0.481, 'compound': 0.5719}",Syria
+768,2060,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.4927}",Texas
+769,3415,"{'neg': 0.246, 'neu': 0.439, 'pos': 0.316, 'compound': 0.2023}",Iraq
+770,4692,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Cleveland
+771,5235,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ukraine
+772,4837,"{'neg': 0.101, 'neu': 0.441, 'pos': 0.458, 'compound': 0.7227}",Washington
+773,690,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+774,397,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Alaska
+775,1012,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Super
+776,1133,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+777,5064,"{'neg': 0.342, 'neu': 0.658, 'pos': 0.0, 'compound': -0.3818}",Belgium
+778,929,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ky.
+779,5170,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Texas
+780,3918,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Berlin
+781,305,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+782,728,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Tampa
+783,3508,"{'neg': 0.204, 'neu': 0.556, 'pos': 0.241, 'compound': 0.1027}",Iowa
+784,3315,"{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}",Philippines
+785,4959,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Alabama
+786,5123,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Maryland
+787,216,"{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.0772}",Washington
+788,1644,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",the United States'
+789,3156,"{'neg': 0.19, 'neu': 0.599, 'pos': 0.211, 'compound': 0.0541}",US
+790,4416,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+791,2953,"{'neg': 0.148, 'neu': 0.852, 'pos': 0.0, 'compound': -0.3818}",Russia
+792,2994,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+793,3626,"{'neg': 0.701, 'neu': 0.299, 'pos': 0.0, 'compound': -0.9136}",New Hampshire
+794,46,"{'neg': 0.177, 'neu': 0.629, 'pos': 0.194, 'compound': 0.0772}",Paris
+795,4322,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+796,351,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.128}",Iowa
+797,4582,"{'neg': 0.22, 'neu': 0.55, 'pos': 0.23, 'compound': 0.032}",Russia
+798,4999,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Syria
+799,4767,"{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.4019}",Iowa
+800,1453,"{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}",Colorado Springs
+801,2883,"{'neg': 0.165, 'neu': 0.744, 'pos': 0.091, 'compound': -0.2263}",Texas
+802,2785,"{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.5994}",Egypt
+803,698,"{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}",Libya
+804,240,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Paris
+805,3947,"{'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.5719}",India
+806,4337,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+807,735,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+808,3325,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Kasich
+809,277,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+810,3019,"{'neg': 0.241, 'neu': 0.658, 'pos': 0.101, 'compound': -0.4939}",Alabama
+811,3341,"{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.3612}",Washington
+812,971,"{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.1531}",Orlando
+813,3860,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Yemen
+814,2725,"{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.4019}",Iran
+815,224,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+816,2583,"{'neg': 0.273, 'neu': 0.455, 'pos': 0.273, 'compound': 0.0}",Iowa
+817,2126,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Wisconsin
+818,2784,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",U.S.
+819,604,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Russia
+820,2351,"{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.4215}",Iran
+821,3089,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+822,2081,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.5719}",Iowa
+823,4571,"{'neg': 0.336, 'neu': 0.5, 'pos': 0.164, 'compound': -0.34}",US
+824,576,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",America
+825,5006,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+826,4913,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Groping
+827,654,"{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.3612}",Russia
+828,3218,"{'neg': 0.487, 'neu': 0.513, 'pos': 0.0, 'compound': -0.765}",France
+829,3673,"{'neg': 0.207, 'neu': 0.643, 'pos': 0.15, 'compound': -0.2023}",Syria
+830,2932,"{'neg': 0.217, 'neu': 0.667, 'pos': 0.117, 'compound': -0.296}",America
+831,1831,"{'neg': 0.262, 'neu': 0.738, 'pos': 0.0, 'compound': -0.4939}",Nevada
+832,4408,"{'neg': 0.217, 'neu': 0.606, 'pos': 0.177, 'compound': -0.2023}",Texas
+833,3927,"{'neg': 0.161, 'neu': 0.575, 'pos': 0.264, 'compound': 0.2263}",VA
+834,4625,"{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.3818}",Nevada
+835,4650,"{'neg': 0.2, 'neu': 0.615, 'pos': 0.185, 'compound': -0.0516}",Las Vegas
+836,4565,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Yemen
+837,1901,"{'neg': 0.0, 'neu': 0.614, 'pos': 0.386, 'compound': 0.2235}",Libya
+838,3634,"{'neg': 0.22, 'neu': 0.78, 'pos': 0.0, 'compound': -0.4767}",Orlando
+839,2356,"{'neg': 0.593, 'neu': 0.407, 'pos': 0.0, 'compound': -0.8807}",Cummings
+840,2270,"{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}",Iowa
+841,5208,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",N.H.
+842,94,"{'neg': 0.213, 'neu': 0.787, 'pos': 0.0, 'compound': -0.2263}",America
+843,4909,"{'neg': 0.172, 'neu': 0.828, 'pos': 0.0, 'compound': -0.3612}","Washington, DC"
+844,2518,"{'neg': 0.514, 'neu': 0.486, 'pos': 0.0, 'compound': -0.8126}",Iowa
+845,1042,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+846,772,"{'neg': 0.254, 'neu': 0.331, 'pos': 0.414, 'compound': 0.233}",Alaska
+847,4220,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Hawaii
+848,5214,"{'neg': 0.081, 'neu': 0.486, 'pos': 0.432, 'compound': 0.8176}",Washington
+849,783,"{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.296}",Flint
+850,45,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Michigan
+851,4286,"{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}",California
+852,1776,"{'neg': 0.421, 'neu': 0.579, 'pos': 0.0, 'compound': -0.6249}",Hawaii
+853,3240,"{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}",Melania
+854,779,"{'neg': 0.223, 'neu': 0.647, 'pos': 0.129, 'compound': -0.3182}",Iran
+855,189,"{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.4939}",Iran
+856,4923,"{'neg': 0.32, 'neu': 0.391, 'pos': 0.289, 'compound': -0.1027}",Super
+857,2122,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",New Hampshire
+858,4401,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iowa
+859,5210,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.5106}",West Baltimore
+860,705,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",US
+861,365,"{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}",Iran
+862,1640,"{'neg': 0.0, 'neu': 0.803, 'pos': 0.197, 'compound': 0.4019}",Cuba
+863,4958,"{'neg': 0.255, 'neu': 0.745, 'pos': 0.0, 'compound': -0.34}",Orlando
+864,3567,"{'neg': 0.54, 'neu': 0.46, 'pos': 0.0, 'compound': -0.6908}",New Hampshire
+865,1463,"{'neg': 0.239, 'neu': 0.761, 'pos': 0.0, 'compound': -0.296}",US
+866,394,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Nevada
+867,1245,"{'neg': 0.293, 'neu': 0.56, 'pos': 0.147, 'compound': -0.4728}",Israel
+868,5109,"{'neg': 0.0, 'neu': 0.716, 'pos': 0.284, 'compound': 0.5799}",Canada
+869,906,"{'neg': 0.493, 'neu': 0.294, 'pos': 0.213, 'compound': -0.5859}",Ohio
+870,5098,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.25}",Mali
+871,4995,"{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.3612}",Colorado
+872,4871,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.5859}",Florida
+873,3961,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",California
+874,368,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+875,5125,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+876,4855,"{'neg': 0.194, 'neu': 0.625, 'pos': 0.181, 'compound': -0.0516}",Paris
+877,4176,"{'neg': 0.316, 'neu': 0.684, 'pos': 0.0, 'compound': -0.5719}",UK
+878,433,"{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.4404}",Mali
+879,1301,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}",DC
+880,1464,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",VA
+881,985,"{'neg': 0.326, 'neu': 0.674, 'pos': 0.0, 'compound': -0.4404}",Iran
+882,4966,"{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.0762}",America
+883,4170,"{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5859}",U.S.
+884,858,"{'neg': 0.275, 'neu': 0.58, 'pos': 0.145, 'compound': -0.2023}",Kasich
+885,413,"{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}",Iowa
+886,5206,"{'neg': 0.441, 'neu': 0.559, 'pos': 0.0, 'compound': -0.743}",US
+887,2632,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Iran
+888,1707,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Wisconsin
+889,5084,"{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.2732}",Iran
+890,507,"{'neg': 0.188, 'neu': 0.584, 'pos': 0.227, 'compound': 0.1531}",US
+891,2746,"{'neg': 0.098, 'neu': 0.902, 'pos': 0.0, 'compound': -0.0516}",Garland
+892,3136,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.1531}",Texas
+893,3100,"{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.5859}",New Hampshire
+894,4462,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",Ethiopia
+895,1847,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",East Africa
