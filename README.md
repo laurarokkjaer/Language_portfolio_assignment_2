@@ -40,7 +40,7 @@ The data used in this assignment is the in class folder from UCloud (shared-driv
 
 
 ## Methods
-To solve this assignment i have worked with ```opencv``` in order to both calculate the histograms as well as for the general image processing (using the ```calcHist```, ```imread```, ```normalize``` and ```compareHist```). Futhermore i used the ```jimshow``` and ```jimshow_channel``` from the ```utils```-folder, along with the ```matplotlib``` for plotting and visualisation.
+To solve this assignment i have worked with data analysis tool such as ```os```, ```pandas``` and ```tqdm``` (for counting). For NLP i used ```numpy``` and ```spacy.load("en_core_web_sm")```). For sentiment analysis i used ```VADER```from ```SentimentIntensityAnalyzer```. At last for visualization i used ```matplotlib```.
 
 ## Usage (reproducing results)
 These are the steps you will need to follow in order to get the script running and working:
