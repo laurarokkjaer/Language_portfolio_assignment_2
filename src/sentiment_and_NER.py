@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 def sentiment():
     
     # Get the filepath
-    filepath = os.path.join("..", "..", "CDS-LANG", "tabular_examples", "fake_or_real_news.csv")
+    filepath = os.path.join("input", "fake_or_real_news.csv")
     # load the data
     data = pd.read_csv(filepath)
     
@@ -166,7 +166,7 @@ def sentiment():
     plt.xticks(rotation=75)
 
     # The final result saved as a picture
-    plt.savefig('../output/TOP 20 ENTITIES OF FAKE NEWS')
+    plt.savefig('output/TOP 20 ENTITIES OF FAKE NEWS')
     
     
     #REAL NEWS BAR CHART
@@ -182,7 +182,7 @@ def sentiment():
     plt.bar(x, y, color = "red", width = 0.8)
     plt.xticks(rotation=75)
 
-    plt.savefig('../output/TOP 20 ENTITIES OF REAL NEWS')
+    plt.savefig('output/TOP 20 ENTITIES OF REAL NEWS')
     
     print("Script succeeded, the results can be seen in output-folder")
     
