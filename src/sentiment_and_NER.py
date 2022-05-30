@@ -105,7 +105,7 @@ def sentiment():
     fake_news_dframe = pd.DataFrame(list_of_columns_fn, columns = ["TextID", "Sentiment Scores", "GPE Mentions"])
     # Writing that dataframe to a new csv file (see seperate .csv for results
     fake_news_dframe.to_csv("../output/Fake_news.csv", encoding = "utf-8")
-    #print(fake_news_dframe)
+
     
     
     # Same for the real news dataset
@@ -113,7 +113,7 @@ def sentiment():
 
     real_news_dframe = pd.DataFrame(list_of_columns_rn, columns = ["TextID", "Sentiment Scores", "GPE Mentions"])
     real_news_dframe.to_csv("../output/Real_news.csv", encoding = "utf-8")
-    #print(real_news_dframe) 
+ 
     
     
     # FAKE NEWS DATASET
@@ -129,7 +129,7 @@ def sentiment():
     # I do that using .tolist() and zipping the entities with it's value
     top_twenty_list = top_twenty.tolist()
     list_of_most_common_fn = list(zip(top_twenty.index, top_twenty))
-    #print(list_of_most_common_fn)
+  
 
     # REAL NEWS DATASET
     real_news_most_common = real_news_GPE_df['GPE'].value_counts()
@@ -138,7 +138,7 @@ def sentiment():
 
     top_twenty_list1 = top_twenty1.tolist()
     list_of_most_common_rn = list(zip(top_twenty1.index, top_twenty_list1))
-    #print(list_of_most_common_rn)
+
 
     
     
